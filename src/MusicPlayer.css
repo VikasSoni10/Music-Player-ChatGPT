@@ -1,0 +1,8 @@
+audio::-webkit-media-controls-panel,
+audio::-webkit-media-controls-start-playback-button,
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-pause-button {
+  display: flex !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
